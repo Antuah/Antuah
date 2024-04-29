@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React Native**
 
-- 🔭 My [Resume]([https://github.com/Antuah/SimnaApp.git](https://antuah.github.io/CVAntonio/))
+- My [Resume](https://antuah.github.io/CVAntonio/)
 
 
 <h3 align="left">Connect with me:</h3>
