@@ -11,6 +11,9 @@
 
 - 💬 Ask me about **React Native**
 
+- 🔭 My [Resume]([https://github.com/Antuah/SimnaApp.git](https://antuah.github.io/CVAntonio/))
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/antuah_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antuah_d" height="30" width="40" /></a>
