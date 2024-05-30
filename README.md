@@ -24,4 +24,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antuah&show_icons=true&locale=en&layout=compact" alt="antuah" /></p>
 
+<p><img align="center" src="https://www.codewars.com/users/Antuah/badges/small" alt=antuah/></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antuah&" alt="antuah" /></p>
