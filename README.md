@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Simna](https://github.com/Antuah/SimnaApp.git)
 
-- 🌱 I’m currently learning **Spring, MongoDB and React**
+- 🌱 I’m currently learning **Laravel and Vue**
 
 - 💬 Ask me about **React Native**
 
