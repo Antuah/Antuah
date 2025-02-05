@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antuah" alt="antuah" /></a> </p>
 
-- 🔭 I’m currently working on [Simna](https://github.com/Antuah/SimnaApp.git)
+- 🔭 I’m currently working on [Python WebPage]([https://github.com/Antuah/SimnaApp.git](https://github.com/Antuah/WebPagePython_test.git))
 
 - 🌱 I’m currently learning **Laravel, Vue and Innertia.js**
 
