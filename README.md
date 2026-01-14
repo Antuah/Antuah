@@ -131,53 +131,6 @@ graph LR
     E --> H[Portfolio Projects]
 ```
 
-**Current Goals:**
-- 🚀 Master full-stack development with Laravel & Vue.js
-- 📱 Build production-ready React Native applications
-- ☁️ Dive deeper into AWS & Google Cloud Platform
-- 🎓 Graduate with honors from UTEZ
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-| Project | Description | Technologies | Status |
-|---------|-------------|--------------|--------|
-| 🌐 **Web Portfolio** | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript | ✅ Live |
-| 📱 **Mobile App** | Cross-platform mobile application | React Native, Firebase | 🚧 In Progress |
-| 🐍 **Python Web Project** | Full-stack web application | Python, FastAPI, PostgreSQL | 🚧 In Progress |
-| ☁️ **Cloud Solution** | Scalable cloud-based service | AWS, Docker, Node.js | 📋 Planned |
-
-[📂 View All Repositories →](https://github.com/antuah?tab=repositories)
-
-</div>
-
----
-
-## 💼 Experience Highlights
-
-<div align="center">
-
-### 🎓 Education
-**Software Development Engineering** | UTEZ México  
-*Current Student* | Focus: Full-Stack Development & Mobile Applications
-
-### 🛠️ Technical Experience
-- 💻 Full-Stack Development with modern frameworks
-- 📱 Mobile Application Development (React Native)
-- ☁️ Cloud Computing & Deployment (AWS, Google Cloud)
-- 🗄️ Database Design & Management (MySQL, MongoDB)
-
-### 🌟 Key Achievements
-- ✨ Built multiple production-ready web applications
-- 📊 Contributed to open-source projects
-- 🏆 Continuously expanding technical skill set
-- 📚 Active learner in emerging technologies
-
 </div>
 
 ---
