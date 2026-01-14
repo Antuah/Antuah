@@ -62,9 +62,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antuah&theme=tokyonight" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=antuah&theme=tokyonight" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Antuah&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 ---
 
