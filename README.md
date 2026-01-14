@@ -7,7 +7,6 @@
 [![Instagram](https://img.shields.io/badge/-@antuah__d-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/antuah_d)
 [![Email](https://img.shields.io/badge/-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jantoniodiazcontact@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Resume-181717?style=flat&logo=github&logoColor=white)](https://antuah.github.io/CVAntonio/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Mobile+App+Enthusiast;Cloud+Computing+Explorer;Always+Learning+New+Tech!" alt="Typing SVG" />
 
@@ -113,7 +112,7 @@ const antonio = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antuah&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=antuah&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
