@@ -2,7 +2,7 @@
 <h3 align="center">Software Development Engineering Student @ UTEZ México</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/104275623?v=4" width="150" style="border-radius:50%" />
+  <img src="https://github.com/antuah.png" width="150" style="border-radius:50%" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🔭 Working on **Python Web Projects**
 - 🌱 Learning **Laravel, Vue & Inertia.js**
 - 💬 Ask me about **React Native**
@@ -27,38 +27,42 @@
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,reactnative,vue,laravel,nodejs,java,kotlin,php,mysql,mongodb,firebase,aws,gcp,docker,linux,git,figma,tailwind,bootstrap,unity" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,vue,laravel,nodejs,java,kotlin,php,mysql,mongodb,firebase,aws,gcp,docker,linux,git,figma,tailwind,bootstrap" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antuah&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antuah&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=antuah&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antuah&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=antuah&theme=tokyonight"/>
 </p>
 
----
-
-### 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=antuah&theme=darkhub&row=1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antuah&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 📫 Contact
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=antuah&theme=tokyonight&row=1"/>
+</p>
+
+---
+
+## 📫 Contact
 - ✉️ **jantoniodiazcontact@gmail.com**
 - 📋 **CV:** https://antuah.github.io/CVAntonio/
 
 ---
 
-⭐ *Thanks for visiting my profile*
+⭐ Thanks for visiting my profile
