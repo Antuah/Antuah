@@ -18,7 +18,7 @@ Software Development Engineering student at **UTEZ México**, passionate about c
 
 ```
 🔭  Currently working on Python Web Projects
-🌱  Learning Laravel, Vue. js & Inertia.js
+🌱  Learning Laravel, Vue.js & Inertia.js
 💡  Specialized in React Native Development
 ☁️  Enthusiast of Cloud Computing & Mobile Applications
 ```
@@ -30,8 +30,8 @@ Software Development Engineering student at **UTEZ México**, passionate about c
 ### **Frontend Development**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue. js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB? style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
@@ -65,7 +65,7 @@ Software Development Engineering student at **UTEZ México**, passionate about c
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E? style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ Software Development Engineering student at **UTEZ México**, passionate about c
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=antuah&theme=tokyonight" alt="Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antuah&theme=tokyonight" alt="Profile Details" width="100%" />
 </div>
 
 <div align="center">
@@ -97,7 +97,7 @@ Software Development Engineering student at **UTEZ México**, passionate about c
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. 
 
-**📧 Email:** [jantoniodiazcontact@gmail.com](mailto:jantoniodiazcontact@gmail. com)
+**📧 Email:** [jantoniodiazcontact@gmail.com](mailto:jantoniodiazcontact@gmail.com)
 
 **📄 Resume:** [View Online CV](https://antuah.github.io/CVAntonio/)
 
