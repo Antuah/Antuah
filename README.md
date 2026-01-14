@@ -98,7 +98,6 @@ const antonio = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antuah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antuah&theme=tokyonight" alt="Productive Time" width="49%" />
 </div>
 
