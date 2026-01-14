@@ -1,12 +1,15 @@
 <div align="center">
 
-# Antonio Díaz
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Antonio%20Díaz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Development%20Engineer%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" />
 
-### Software Development Engineer
+### 👋 Welcome to my GitHub Profile!
 
 [![Instagram](https://img.shields.io/badge/-@antuah__d-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/antuah_d)
 [![Email](https://img.shields.io/badge/-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jantoniodiazcontact@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Resume-181717?style=flat&logo=github&logoColor=white)](https://antuah.github.io/CVAntonio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Mobile+App+Enthusiast;Cloud+Computing+Explorer;Always+Learning+New+Tech!" alt="Typing SVG" />
 
 </div>
 
@@ -14,24 +17,33 @@
 
 ## 👨‍💻 About Me
 
-Software Development Engineering student at **UTEZ México**, passionate about creating innovative solutions through code. Currently focused on full-stack development with a special interest in mobile applications and cloud technologies. 
+🎓 Software Development Engineering student at **UTEZ México**, passionate about creating innovative solutions through code. Currently focused on full-stack development with a special interest in mobile applications and cloud technologies. 
 
-```
-🔭  Currently working on Python Web Projects
-🌱  Learning Laravel, Vue.js & Inertia.js
-💡  Specialized in React Native Development
-☁️  Enthusiast of Cloud Computing & Mobile Applications
+```javascript
+const antonio = {
+  location: "📍 Morelos, México",
+  currentWork: "🔭 Building Python Web Projects",
+  learning: "🌱 Laravel, Vue.js & Inertia.js",
+  expertise: "💡 React Native Development",
+  interests: "☁️ Cloud Computing & Mobile Apps",
+  philosophy: "💻 Code with passion, deploy with confidence"
+};
 ```
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🛠️ Technical Skills
 
 ### **Frontend Development**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
@@ -40,8 +52,10 @@ Software Development Engineering student at **UTEZ México**, passionate about c
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### **Mobile & Desktop**
@@ -65,7 +79,15 @@ Software Development Engineering student at **UTEZ México**, passionate about c
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### **Testing**
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </p>
 
 ---
@@ -73,20 +95,98 @@ Software Development Engineering student at **UTEZ México**, passionate about c
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antuah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antuah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antuah&theme=tokyonight" alt="Profile Details" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antuah&theme=tokyonight" alt="Stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antuah&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antuah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antuah&theme=tokyonight" alt="Productive Time" width="49%" />
 </div>
 
 ---
 
-## 🏆 Achievements & Metrics
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github.com/antuah/antuah/blob/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://github-profile-trophy.vercel.app/?username=antuah&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 Learning] --> B[Vue.js & Inertia.js]
+    A --> C[Laravel Advanced]
+    A --> D[Cloud Architecture]
+    E[💼 Building] --> F[Python Web Projects]
+    E --> G[Mobile Applications]
+    E --> H[Portfolio Projects]
+```
+
+**Current Goals:**
+- 🚀 Master full-stack development with Laravel & Vue.js
+- 📱 Build production-ready React Native applications
+- ☁️ Dive deeper into AWS & Google Cloud Platform
+- 🎓 Graduate with honors from UTEZ
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+| Project | Description | Technologies | Status |
+|---------|-------------|--------------|--------|
+| 🌐 **Web Portfolio** | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript | ✅ Live |
+| 📱 **Mobile App** | Cross-platform mobile application | React Native, Firebase | 🚧 In Progress |
+| 🐍 **Python Web Project** | Full-stack web application | Python, FastAPI, PostgreSQL | 🚧 In Progress |
+| ☁️ **Cloud Solution** | Scalable cloud-based service | AWS, Docker, Node.js | 📋 Planned |
+
+[📂 View All Repositories →](https://github.com/antuah?tab=repositories)
+
+</div>
+
+---
+
+## 💼 Experience Highlights
+
+<div align="center">
+
+### 🎓 Education
+**Software Development Engineering** | UTEZ México  
+*Current Student* | Focus: Full-Stack Development & Mobile Applications
+
+### 🛠️ Technical Experience
+- 💻 Full-Stack Development with modern frameworks
+- 📱 Mobile Application Development (React Native)
+- ☁️ Cloud Computing & Deployment (AWS, Google Cloud)
+- 🗄️ Database Design & Management (MySQL, MongoDB)
+
+### 🌟 Key Achievements
+- ✨ Built multiple production-ready web applications
+- 📊 Contributed to open-source projects
+- 🏆 Continuously expanding technical skill set
+- 📚 Active learner in emerging technologies
+
+</div>
+
+---
+
+## 🤝 Contributions & Activity
+
+<div align="center">
+  <img src="https://github.com/antuah/antuah/blob/main/github-metrics.svg" alt="Detailed Metrics" width="100%" />
 </div>
 
 ---
@@ -95,18 +195,43 @@ Software Development Engineering student at **UTEZ México**, passionate about c
 
 <div align="center">
 
+### 💬 Let's Connect!
+
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. 
 
-**📧 Email:** [jantoniodiazcontact@gmail.com](mailto:jantoniodiazcontact@gmail.com)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="50"/><br/>
+      <b>Email</b><br/>
+      <a href="mailto:jantoniodiazcontact@gmail.com">jantoniodiazcontact@gmail.com</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="50"/><br/>
+      <b>Portfolio</b><br/>
+      <a href="https://antuah.github.io/CVAntonio/">View Online CV</a>
+    </td>
+  </tr>
+</table>
 
-**📄 Resume:** [View Online CV](https://antuah.github.io/CVAntonio/)
+**🤝 Open to:**
+- 💼 Job Opportunities
+- 🚀 Collaborative Projects
+- 💡 Tech Discussions
+- 🎓 Mentorship
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=antuah&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-  **⭐ If you find my work interesting, feel free to star my repositories! **
+
+### ✨ Thank you for visiting! ✨
+
+<img src="https://komarev.com/ghpvc/?username=antuah&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+
+**⭐ If you find my work interesting, feel free to star my repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
 </div>
