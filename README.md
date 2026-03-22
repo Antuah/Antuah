@@ -21,11 +21,11 @@
 ```javascript
 const antonio = {
   location: "📍 Morelos, México",
-  currentWork: "🔭 Building Python Web Projects",
-  learning: "🌱 Laravel, Vue.js & Inertia.js",
+  currentWork: "🔭 Enhance my knowledge across various technologies.",
+  learning: "🌱 AI integration for intelligent process automation.",
   expertise: "💡 React Native Development",
   interests: "☁️ Cloud Computing & Mobile Apps",
-  philosophy: "💻 Code with passion, deploy with confidence"
+  philosophy: "💻 Developing code in a smart, fast, and efficient manner"
 };
 ```
 
